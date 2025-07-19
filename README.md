@@ -22,14 +22,14 @@
 
 选择密码字典之后，在密文输入框中输入数据库中找到的加密密码，点击开始爆破之后会自动爆破（线程数为CPU核心数减一），爆破完成之后会在jar包所在目录生成ruoyi_result.txt文件，文件中保存了破解成功的密码。
 
-![](https://github.com/yyy4nl/PwdCrack/img/ruoyi.png)
+![](https://github.com/yyy4nl/PwdCrack/blob/master/img/ruoyi.png)
 
-![](https://github.com/yyy4nl/PwdCrack/ruoyi_result.png)
+![](https://github.com/yyy4nl/PwdCrack/blob/master/img/ruoyi_result.png)
 
 ### Jeecg密码破解
 
 同理选择密码字典后可直接开始爆破
 
-![](https://github.com/yyy4nl/PwdCrack/jeecg.png)
+![](https://github.com/yyy4nl/PwdCrack/blob/master/img/jeecg.png)
 
-![](https://github.com/yyy4nl/PwdCrack/jeecg_result.png)
+![](https://github.com/yyy4nl/PwdCrack/blob/master/img/jeecg_result.png)

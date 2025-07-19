@@ -4,25 +4,25 @@
 
 比如下面这个从若依二开数据库中翻到的密码，明文密码就是123456。
 
-![](https://github.com/yyy4nl/PwdCrack/cmd5.png)
+![](https://github.com/yyy4nl/PwdCrack/blob/master/img/cmd5.png)
 
 密码是123456，但是cmd5没有匹配到，加入后台进行破解的话还会扣两块，但是使用这个工具就可以爆破出来
 
-![](https://github.com/yyy4nl/PwdCrack/jiemi.png)
+![](https://github.com/yyy4nl/PwdCrack/blob/master/img/jiemi.png)
 
 同样的jeecg的密码，cmd5也没有匹配到，但是使用工具可以匹配到
 
-![](https://github.com/yyy4nl/PwdCrack/cmd52.png)
+![](https://github.com/yyy4nl/PwdCrack/blob/master/img/cmd52.png)
 
-![](https://github.com/yyy4nl/PwdCrack/jiemi1.png)
+![](https://github.com/yyy4nl/PwdCrack/blob/master/img/jiemi1.png)
 
-![](https://github.com/yyy4nl/PwdCrack/jiemimi.png)
+![](https://github.com/yyy4nl/PwdCrack/blob/master/img/jiemimi.png)
 
 ### ruoyi密码破解
 
 选择密码字典之后，在密文输入框中输入数据库中找到的加密密码，点击开始爆破之后会自动爆破（线程数为CPU核心数减一），爆破完成之后会在jar包所在目录生成ruoyi_result.txt文件，文件中保存了破解成功的密码。
 
-![](https://github.com/yyy4nl/PwdCrack/ruoyi.png)
+![](https://github.com/yyy4nl/PwdCrack/img/ruoyi.png)
 
 ![](https://github.com/yyy4nl/PwdCrack/ruoyi_result.png)
 
